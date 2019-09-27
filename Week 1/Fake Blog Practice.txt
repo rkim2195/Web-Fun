@@ -1,0 +1,84 @@
+<!doctype HTML>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>My Fake Blog!</title>
+        <meta name="description" content="I'm just trying to learn how to HTML">
+        <link rel="stylesheet" type="text/css" href="my_css_file.css">
+        <script type="text/javascript" src="my_javascript_file.js"></script>
+        <script type="text/javascript" src="my_javascript_file2.js"></script>
+        <script type="text/javascript" src="my_javascript_file3.js"></script>
+    </head>
+    <body>
+        <h1>Here is my attempt to make a blog</h1>
+        <p>
+            "Jeeze making a website is a lot harder than it looks, especially because this is my first time coding. But hey, what can I do but keep trying until I get it right. Here is to hoping I did this right!"
+        </p>
+        <img src="https://images-na.ssl-images-amazon.com/images/I/51UwubIEZHL._SX425_.jpg" alt="an image" height="100" width="100">
+        <a href="https://www.amazon.com/Get-Motivated-Michael-Office-Poster/dp/4070251030">Amazon</a>
+        <ul>
+            <li>Yes<li>
+            <li>No<li>
+            <li>Maybe<li>
+        </ul>
+        <table>
+            <thead>
+                <tr>
+                    <th>Here</th>
+                    <th>Goes</th>
+                    <th>Nothing</th>
+                    <th>!</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>1</td>
+                    <td>2</td>
+                    <td>3</td>
+                    <td>4</td>
+                </tr>
+                <tr>
+                    <td>1</td>
+                    <td>2</td>
+                    <td>3</td>
+                    <td>4</td>
+                </tr>
+                <tr>
+                    <td>1</td>
+                    <td>2</td>
+                    <td>3</td>
+                    <td>4</td>
+                </tr>
+
+            </tbody>
+        </table>
+    </body>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="description" content="I'm just trying to learn how to HTML">
+        <form>    
+            <p>Survey</p>
+            <label>
+                Name:<input type="text" name="name">
+            </label>
+            <label for="blue">Blue</label>
+            <input type="checkbox" id="blue" name="color" value="blue">
+            <label for="green">Green</label>
+            <input type="checkbox" id="green" name="color" value="green">
+            <label for="red">Red</label>
+            <input type="checkbox" id="red" name="color" value="red">
+            <label for="black">Black</label>
+            <input type="checkbox" id="black" name="color" value="black">
+            <label for="purple">Purple</label>
+            <input type="checkbox" id="purple" name="color" value="purple">
+            <p>Select your response:</p>
+            <label>
+            Yes<input type="radio" name="repsonse" value="Yes"> 
+            </label>
+            <label>
+            No<input type="radio" name="No" value="No">
+            </label>
+            <input type="submit" value="Submit">
+        </form>
+    </head>
+</html>

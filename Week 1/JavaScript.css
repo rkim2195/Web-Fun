@@ -1,0 +1,65 @@
+/*CSS reset settings here*/
+.container{
+    width: 970px;
+    background-color: rgb(36, 59, 189);
+    padding: 10px;
+}
+a{
+    color: rgb(107, 202, 202);
+    font-size: 12px;
+}
+p{
+    color: rgb(189, 222, 235);
+    font-size: 12px;
+}
+.header{
+    width: 100%;
+    background-color: red;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+.header h1{
+    margin: 0;
+    padding: 15px 0 15px 10px;
+    color: rgb(171, 211, 235);
+}
+.navbar{
+    width: 180px;
+    background-color: rgb(51, 158, 177);
+    border-radius: 10px;
+    padding: 10px;
+    display: inline-block;
+    vertical-align: top;
+}
+ul{
+    color: white;
+    padding-left: 20px;
+    margin: 0;
+}
+.main-content{
+    width: 720px;
+    display: inline-block;
+    margin-left: 15px;
+    background-color:rgb(28, 28, 99);
+    border-radius: 10px;
+    color: rgb(174, 214, 236);
+    padding: 15px;
+}
+.main-content h2{
+    margin: 10px 0;
+}
+.main-content ul li p{
+    margin: 5px 0;
+}
+span{
+    color: rgb(115, 115, 202);
+}
+.footer{
+    margin-top: 10px;
+    width: 100%;
+    background-color: rgb(110, 96, 96);
+    border-radius: 15px;
+}
+.footer p{
+    padding: 15px 0 15px 15px;
+}

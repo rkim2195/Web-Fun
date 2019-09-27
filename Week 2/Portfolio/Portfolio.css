@@ -1,0 +1,166 @@
+body *{
+	padding:0px;
+	margin:0px;
+	font-family: 	Arial;
+}
+.wrapper {
+	width:960px;
+	height:1000px;
+}
+.header {
+	width:938px;
+	height: 30px;
+	padding:15px;
+}
+.header h2{
+	display:inline-block;
+	margin-right: 440px;
+	font-size: 34px;
+}
+.header h3 {
+	display:inline-block;
+}
+.main_content{
+	width:929px;
+    height:870px;
+    padding:20px 20px;
+	background: -webkit-radial-gradient(#6f5964, #1f0f13);
+    background: -o-radial-gradient(#6f5964, #1f0f13);
+    background: -moz-radial-gradient(#6f5964, #1f0f13);
+    background: radial-gradient(#6f5964, #1f0f13);
+}
+.main_content img{
+	width:390px;
+    height:270px;
+	margin-bottom: 20px;
+	margin-right:20px;
+	border: 5px solid #7d7377;
+}
+.main_content .about_me_section{
+    width: 500px;
+	height:280px;
+	display:inline-block;
+	vertical-align: top;
+    background: -webkit-linear-gradient(to bottom right, #fefefe, #dbcbda);
+    background: -o-linear-gradient(to bottom right, #fefefe, #dbcbda);
+    background: -moz-linear-gradient(to bottom right, #fefefe, #dbcbda);
+	background: linear-gradient(to bottom right, #fefefe, #dbcbda);
+	font-size: 14px;
+}
+.main_content .about_me_section h2 {
+	padding: 10px 15px;
+	background: -webkit-linear-gradient(#bdbdbf, #888694, #bdbdbf);
+    background: -o-linear-gradient(#bdbdbf, #888694, #bdbdbf); 
+    background: -moz-linear-gradient(#bdbdbf, #888694, #bdbdbf);
+	background: linear-gradient(#bdbdbf, #888694, #bdbdbf);
+	/* font-size: 14px; */
+	color:white;
+	font-weight: bold;
+}
+.main_content p {
+    margin-bottom: 5px;
+    margin-top: 15px;
+	padding-left: 8px;
+	font-size: 14px;
+}
+.main_content a{
+    margin-top: 15px;
+    padding-left: 10px;
+
+}
+.main_content .projects {
+	width:295px;
+	height: 560px;
+    display : inline-block;
+    vertical-align: top;
+	background-color: lightgray;
+	background: -webkit-linear-gradient(to bottom right, #fefefe, #dbcbda);
+    background: -o-linear-gradient(to bottom right, #fefefe, #dbcbda);
+    background: -moz-linear-gradient(to bottom right, #fefefe, #dbcbda);
+    background: linear-gradient(to bottom right, #fefefe, #dbcbda);
+}
+.main_content .projects.spacing {
+	margin-right:15px;
+}
+.projects img,
+.projects ul {
+	width: 295px;
+	margin:0;
+}
+.projects h2 {
+	width: 265px;
+	padding: 10px 15px;
+	color: white;
+	background: -webkit-linear-gradient(#bdbdbf, #888694, #bdbdbf);
+    background: -o-linear-gradient(#bdbdbf, #888694, #bdbdbf); 
+    background: -moz-linear-gradient(#bdbdbf, #888694, #bdbdbf); 
+	background: linear-gradient(#bdbdbf, #888694, #bdbdbf); 
+	font-size: 20px;
+}
+.projects h3 {
+	width: 265px;
+	padding: 10px 15px;
+	margin-top: 30px;
+	color: white;
+	background: -webkit-linear-gradient(#bdbdbf, #888694, #bdbdbf);
+    background: -o-linear-gradient(#bdbdbf, #888694, #bdbdbf); 
+    background: -moz-linear-gradient(#bdbdbf, #888694, #bdbdbf); 
+	background: linear-gradient(#bdbdbf, #888694, #bdbdbf); 
+	font-size: 15px;
+	display: inline-block;
+}
+.projects img{
+	border:none;
+	height: 150px;
+}
+.projects p{
+	width: 280px;
+	height: 110px;
+}
+.tech_images {
+	padding:15px 0px 0px 15px;
+}
+.tech_images li{
+	display: inline-block;
+	margin-right:10px;
+}
+.tech_images img{
+	width:40px;
+	height:40px;
+}
+.projects button {
+	background-color: green;
+	color:white;
+	border:solid 1px black;
+	border-radius: 10px;
+	padding:5px;
+	margin: 10px 100px;
+	font-weight: 600;
+	font-size: 13px;
+	width: auto;
+}
+
+.footer{
+	width:968px;
+	height:50px;
+}
+.footer p
+{
+	margin:auto;
+	width: 250px;
+}
+.footer ul {
+	width: 380px;
+	margin:auto;
+}
+.footer ul li {
+	display:inline-block;
+}
+.footer img {
+	width: 25px;
+	height:auto;
+    margin-top:10px;
+}
+.footer, .header{
+	background-color: #f9f9f9;
+}

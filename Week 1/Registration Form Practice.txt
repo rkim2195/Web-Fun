@@ -1,0 +1,28 @@
+<!doctype HTML>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>My Registration Form</title>
+    <meta name="description" content="I'm just trying to learn how to HTML">
+    <form>
+        <label for="first_name">First Name:</label>
+        <input type="text" id="first_name" name="first_name">
+        <label for="last_name">Last Name:</label>
+        <input type="text" id="last_name" name="last_name">
+        <label for="email">Email:</label>
+        <input type="text" id="email" name="email">
+        <label for="password">Password:</label>
+        <input type="password" id="password" name="password">
+        <label for="date">Date:</label>
+        <input type="text" id="date" name="date">
+        <label for="male">Male</label>
+        <input type="radio" id="male" name="gender" value="male">
+        <label for="female">Female</label>
+        <input type="radio" id="female" name="gender" value="female">
+        <label for="decline">Prefer not to say</label>
+        <input type="radio" id="decline" name="gender" value="decline">
+        <input type="submit" value="Click here to register">
+        <textarea name="description"></textarea>
+    </form>
+</head>
+</html>

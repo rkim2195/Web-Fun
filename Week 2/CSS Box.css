@@ -1,0 +1,59 @@
+.container{
+    width: 1000px;
+    height: 575px;
+    background-color: silver;
+}
+.Red{
+    width: 465px;
+    height: 100px;
+    background-color: red;
+    vertical-align: left;
+    display: inline-block;
+    margin: 15px;
+}
+/* .Box2{
+    width: 465px;
+    height: 100px;
+    background-color: red;
+    vertical-align: right;
+    display: inline-block;
+    margin: 15px;
+} */
+.Box3{
+    display: block;
+    height: 100px;
+    background-color: lightblue;
+    /* align-items: center; */
+    /* display: inline-flex; */
+    margin: 15px;
+}
+.Yellow{
+    width: 300px;
+    height: 100px;
+    background-color: yellow;
+    /* align-content: center; */
+    display: inline-flex;
+    margin: 15px;
+}
+.Box7{
+    display: block;
+    height: 150px;
+    background-color: green;
+    vertical-align: bottom;
+    margin: 15px;
+}
+.Purple{
+    width: 100px;
+    height: 100px;
+    background-color: purple;
+    margin-top: 25px;
+    margin-left: 35px;
+    display: inline-block
+}
+.Purple1{
+    width: 100px;
+    height: 100px;
+    background-color: purple;
+    margin-left: 700px;
+    display: inline-block;
+}

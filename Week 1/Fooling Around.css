@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.Main{
+    width: 920px;
+    background-color: yellow;
+    padding: 20px;  
+    border-radius: 20px;
+}
+h1{
+    font-size: 40px;
+    font-weight: bold;
+    color: firebrick;
+    background-color: black;
+    display: inline-block;
+    border-radius: 15px;
+}
+a{
+    font-size: 13px;
+    font-weight: bold;
+    color:blue;
+}
+.Navigation{
+    width: 100px;
+    height: 100px;
+    background-color: chartreuse;
+    border-radius: 15px;
+    padding: 20px;
+    display: inline-block;
+}
+.Main-Content{
+    width: 700px;
+    background-color: blanchedalmond;
+    display: block;
+    border-radius: 10px;
+    padding: 20px;
+}
+h2{
+    color: red;
+}

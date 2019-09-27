@@ -1,0 +1,19 @@
+p{
+    background-color: black;
+    font-size: 40px;
+    display: inline;
+    color:red
+}
+a{
+    background-color: yellow;
+    font-size: 30px;
+    /* display: block; */
+}
+ul{
+    background-color: blue
+    display: inline;
+}
+ul li{
+    background-color: coral
+    display: inline;
+}

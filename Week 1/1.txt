@@ -1,0 +1,24 @@
+Complete the required check list below corresponding with your Skills Check rank.
+
+Beginners: Complete items 1 - 7
+Intermediate: Complete items 1 - 6
+Proficient: Complete items 1 - 5
+1. Read through all Getting Started modules. Be sure to carefully read through and adhere to our honor code. (1 hr)
+
+2. Read through all Roadmap modules (1 hr)
+
+3. Register/Install all Prep Material (2 hr)
+
+4. Review the first 22 pages of the Algorithm Book and complete all assignments on Page 16, 20, and 22. *Write down your answers in a single file called 'answers.js' and upload your code below. (2-4 hrs)
+
+5. Complete the Algorithm App including all the challenges (4-10 hr)
+
+6. (Optional) Complete Intro to Programming (4-10 hrs)
+
+Use the dynamic checklist below to keep track of your progress!
+
+ Read through all Getting Started modules (1 hr)
+ Read through all Roadmap modules (1 hr)
+ Register/Install all Prep Material (2 hr)
+ Complete the Algorithm App? including all the challenges (4-10 hr)
+ Review the first 22 pages of the Algorithm Book and complete all assignments on Page 16, 20, and 22. *Type your answers in a single file called 'answers.js' or 'answers.txt' and upload your code below. (2-4 hrs)
